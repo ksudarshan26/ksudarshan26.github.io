@@ -1075,7 +1075,7 @@ towards his internship project. I admire his hard work on content, representatio
 			</div>
 
 			<div class="footer-item footer-more">
-				<h2>© Sudarshan Kuntumalla <hr><br> Made with ❤️ <br>using Django 💻 </h2>
+				<h2>© Sudarshan Kuntumalla <hr><br> Made with ❤️ <br>using HTML & CSS 💻 </h2>
 			</div>
 		</div>
 	</div>
