@@ -996,7 +996,7 @@ towards his internship project. I admire his hard work on content, representatio
 			</div>
 
 			<div class="design-item">
-				<img src='dj.jpg' class="design-img" style="width: 800px; height: 400px;">
+				<img src='propro.jpg' class="design-img" style="width: 800px; height: 400px;">
 			</div>
 
 			<div class="design-item">
@@ -1035,8 +1035,19 @@ towards his internship project. I admire his hard work on content, representatio
 				<img src='ds.png' class="design-img" style="width: 800px; height: 400px;">
 			</div>
 
+			<div class="design-item">
+				<img src='stars.jpg' class="design-img" style="width: 800px; height: 400px;">
+			</div>
+
+			<div class="design-item">
+				<img src='vis.jpg' class="design-img" style="width: 800px; height: 400px;">
+			</div>
+			
 	</div>
 </section>
+
+              
+              
 <!-- Footer -->
 <footer class="footer" id="footer">
 	<div class="container">
@@ -1076,6 +1087,7 @@ towards his internship project. I admire his hard work on content, representatio
 
 			<div class="footer-item footer-more">
 				<h2>© Sudarshan Kuntumalla <hr><br> Made with ❤️ <br>using HTML & CSS 💻 </h2>
+				<div style="text-align:center;"><script type="text/javascript" src="http://services.webestools.com/cpt_visitors/69843-8-5.js"></script></div><a href="http://www.webestools.com/" style="display:block;text-align:center;" title="Tools services webmasters counters generators scripts tutorials free"><img src="http://www.webestools.com/images/ban03.gif" alt="Tools services webmasters counters generators scripts tutorials free" /></a>
 			</div>
 		</div>
 	</div>
