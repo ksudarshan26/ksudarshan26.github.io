@@ -1087,9 +1087,8 @@ towards his internship project. I admire his hard work on content, representatio
 
 			<div class="footer-item footer-more">
 				<h2>© Sudarshan Kuntumalla <hr><br> Made with ❤️ <br>using HTML & CSS 💻 </h2>
-				<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7811786&style=0045&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
-			</div>
+				<script type="text/javascript" src="https://free-hit-counters.net/count/8msj"></script><br>
+ <a href='http://xn--besucherzhlerkostenlos-84b.com/'>Besucherzähler einbinden</a> <script type='text/javascript' src='https://whomania.com/ctr?id=601284b387e351e409e154d39dbc493881274136'></script>
 		</div>
 	</div>
 </footer>
