@@ -5,7 +5,7 @@
 	<link rel="icon" href="https://www.flaticon.com/svg/vstatic/svg/1716/1716454.svg?token=exp=1616049743~hmac=4114044828549a84182e34b2f77e692f">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Design Portfolio - Sudarshan Kuntumalla . Made using Django"/>
+	<meta name="description" content="Design Portfolio - Sudarshan Kuntumalla . Made using Django". A portofolio website that describes about Sudarshan Kuntumalla./>
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
@@ -794,7 +794,7 @@ p{
 						<div class="home-course-item"></div>
 						<div class="home-course-item"></div>
 					</div>
-					<img src="me.jpg"alt="home-img">
+					<img src="me.jpg"alt="Sudarshan Kuntumalla">
 				</div>
 			</div>
 		</div>
